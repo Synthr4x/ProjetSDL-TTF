@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1314119360 source:e:\iut_ju\iut_projettut\t2 projet jeux\codesource\boggle\tests\t_boggle_fct_1.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<string.h>
+	"../initialiserBoggle.h"
+
+1312144936 e:\iut_ju\iut_projettut\t2 projet jeux\codesource\boggle\initialiserboggle.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<string.h>
+	<time.h>
+
+1314121028 source:e:\iut_ju\iut_projettut\t2 projet jeux\codesource\boggle\initialiserboggle.c
+	"../afficher.h"
+	"initialiserBoggle.h"
+
+1312105146 e:\iut_ju\iut_projettut\t2 projet jeux\codesource\afficher.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<string.h>
+
